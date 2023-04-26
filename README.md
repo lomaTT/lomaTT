@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="center" /></h1>
+<h1 align="center"><a href="https://github.com/lomaTT"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="center" /></a></h1>
 
  ```yaml
  {
