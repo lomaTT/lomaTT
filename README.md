@@ -46,7 +46,7 @@
   
   "languages": {
     "C2": ["Russian", "Belarusian"],
-    "B2": "Polish",
+    "B2+": "Polish",
     "B2": "English"
   },
   
