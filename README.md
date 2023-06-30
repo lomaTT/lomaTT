@@ -45,9 +45,9 @@
   ],
   
   "languages": {
-    "C1": ["Russian", "Belarusian"],
+    "C2": ["Russian", "Belarusian"],
     "B2": "Polish",
-    "B1": "English"
+    "B2": "English"
   },
   
   "hobbies": [ "Self-development", "Art", "Travelling", "Gaming" ]
