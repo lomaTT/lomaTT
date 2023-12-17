@@ -28,7 +28,8 @@
   ],
   
   "technical_background": [
-    "Junior Full Stack Developer - LogicLike", "2021-2022"
+    "Junior Full Stack Developer - LogicLike", "2021-2022",
+    "Junior Full Stack Developer - Soulab", "2023-2024"
   ],
   
   "skills": {
