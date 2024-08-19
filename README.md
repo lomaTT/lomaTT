@@ -4,55 +4,55 @@
  {
   "name": "Alexey Lomats",
   "name_in_passport": "Aliaksei Lomats",
-  "located_in": "Lublin, Poland",
-  
+  "located_in": "Cracow, Poland",
   "contacts": {
-    "discord": "lomats#7211",
+    "gmail": "alexeyttdeveloper@gmail.com",
     "telegram": "t.me/llleshik",
-    "gmail": "alexeyttdeveloper@gmail.com"
+    "discord": "lomats#7211"
   },
-  
-  "education": [
-    "Lublin University of Technologies",
-    "Informatics",
-    "Bachelor's degree"
-  ],
-  
-  "current_job": ["Full Stack Developer", "Freelance"],
-  
-  "fields_of_interests": [
+  "education": {
+    "bachelor": {
+      "university": "Lublin University of Technology",
+      "field": "Software Engineering"
+    },
+    "master": {
+      "university": "Cracow University of Technology",
+      "field": "Cybersecurity"
+    }
+  },
+  "current_job": "Full Stack Developer",
+  "interests": [
     "Web development",
     "Self-studying",
     "Design web pages",
-    "Learning new technologies"
+    "Learning new technologies",
+    "Cybersecurity"
   ],
-  
-  "technical_background": [
-    "Junior Full Stack Developer - LogicLike", "2021-2022",
-    "Middle Full Stack Developer - Soulab", "2023-2024"
-  ],
-  
+  "technical_background": {
+    "logiclike": {
+      "position": "Full Stack Developer",
+      "period": "January 2021- January 2023",
+    },
+    "soulab": {
+      "position": "Full Stack Developer",
+      "period": "August 2023 - January 2024"
+    },
+    "gambsoft": {
+      "position": "Full Stack Developer",
+      "period": "January 2024 - ..."
+    }
+  },
   "skills": {
-    "advanced": ["JavaScript", "TypeScript", "Angular", "React", "NodeJS", "PHP"],
-    "upper-intermediate": ["HTML", "CSS", "Git", "Linux", "MySQL"],
+    "advanced": ["JavaScript", "TypeScript", "Angular", "React", "NodeJS", "PHP", "Symfony", "Laravel"],
+    "upper-intermediate": ["HTML", "CSS", "Git", "Linux", "MySQL", "PostgreSQL"],
     "intermediate": ["Java", "C++", "Python", "Docker"]
   },
-  "currently_learning": ["DevOps", "MongoDB"],
-  
-  "2023 Goals": [
-    "Find a job of the dream",
-    "At least 20 new interesting web projects",
-    "200+ LeetCode Problems"
+  "currently_learning": [
+    "DevOps",
+    "Cybersecurity"
   ],
-  
-  "languages": {
-    "C2": ["Russian", "Belarusian"],
-    "B2+": "Polish",
-    "B2": "English"
-  },
-  
-  "hobbies": [ "Self-development", "Art", "Travelling", "Gaming" ]
- }
+  "languages": ["Russian", "Belarusian","Polish", "English"]
+}
  ```
      
   
