@@ -31,7 +31,7 @@
   "technical_background": {
     "logiclike": {
       "position": "Full Stack Developer",
-      "period": "January 2021- January 2023",
+      "period": "January 2021 - January 2023",
     },
     "soulab": {
       "position": "Full Stack Developer",
