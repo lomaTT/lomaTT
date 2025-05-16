@@ -2,7 +2,7 @@
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/alexey-lomats/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
     <a href="https://t.me/llleshik"><img src="https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-    <a href="https://lomatt.github.io"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logoColor=white" alt="Portfolio Badge"/></a>
+    <!-- <a href="https://lomatt.github.io"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logoColor=white" alt="Portfolio Badge"/></a> -->
   </div>
   
   <!-- <img src="https://komarev.com/ghpvc/?username=lomaTT&style=flat-square&color=blue" alt=""/> -->
